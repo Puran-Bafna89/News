@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Jon Sindreu",
+    "title": "Are You Ultrarich, Rich or Merely Affluent? It Makes a Big Difference for Your Bank",
+    "description": "The mass-affluent wealth market is a tempting way for the likes of UBS to gain scale, but the benefits for their core business could be scant.",
+    "url": "https://www.wsj.com/finance/banking/are-you-ultra-rich-rich-or-merely-affluent-it-makes-a-big-difference-for-your-bank-54222ebf",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/LnPzwVh2do4uerjUiMK.FQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/1103813307ef433d289fc75228070449",
+    "publishedAt": "2024-12-15T12:00:00Z",
+    "content": "The U.S. wealth arm of UBS has $2 trillion in client assets. - Stefan Wermuth/Bloomberg News\r\nScale is crucial in the wealth-management business, but it needs to be the right kind of scale.\r\nManaging… [+4884 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Jean Eaglesham",
+    "title": "Your Home-Insurance Bill Has Only One Way to Go: Up",
+    "description": "Damage from hail is fueling a jump in insurance claims as more homes are built in disaster-prone areas.",
+    "url": "https://www.wsj.com/finance/homeowners-insurance-rates-disasters-4f3e826d",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Mx9pDDFBFsj94CULq347FQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/10c194b71c036f239d67759407ac9d43",
+    "publishedAt": "2024-12-14T00:34:17Z",
+    "content": "Collin County in North Texas is the kind of place that delights developers and scares insurers. A magnet for Dallas commuters and thunderstorms alike, the county is home to four of the nations 10 fas… [+6374 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Dan Gallagher",
+    "title": "Google’s Quantum Boost Doesn’t Really Compute",
+    "description": "Alphabet’s sagging stock has been primed for any good news, but quantum computing’s payoff is years away at best.",
+    "url": "https://www.wsj.com/tech/googles-quantum-boost-doesnt-really-compute-599ee256",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Hh2Ng4ZGSEYKUpNkj97F3g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/e5c38f66c3fea0b13f5673340e675597",
+    "publishedAt": "2024-12-12T11:30:00Z",
+    "content": "Alphabet CEO Sundar Pichai - Jeff Chiu/Associated Press\r\nOne of Googles science projects is paying off in a big way, albeit way early.\r\nAlphabet, parent company of the internet search giant, has seen… [+3774 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "David Wainer",
+    "title": "UnitedHealth Backlash Signals Possible Shift in Washington and on Wall Street",
+    "description": "Investors have been counting on a deregulatory surge in the health insurance business, but it might not be so simple in the wake of the fatal shooting of a...",
+    "url": "https://www.wsj.com/health/healthcare/unitedhealth-insurance-negative-public-sentiment-53d111d7",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/LVerfcpb253rdxxVsMS7jw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/b636d5512da179f633a599fd4fb750e9",
+    "publishedAt": "2024-12-07T12:00:00Z",
+    "content": "After the shooting in Midtown Manhattan, there has been an outpouring of negative public sentiment directed at private insurers. - Yuki Iwamura/Bloomberg\r\nHealth insurers were looking forward to an i… [+4142 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "trasel",
+    "title": "Battling Infectious Diseases in the 20th Century: The Impact of Vaccines - WSJ.com",
+    "description": "The number of infected people, measured over 70-some years and across all 50 states and the District of Columbia, generally declined after vaccines were introduced.",
+    "url": "http://graphics.wsj.com/infectious-diseases-and-vaccines",
+    "urlToImage": "http://si.wsj.net/public/resources/images/OG-AD828_VACCIN_NS_20150211161752.jpg",
+    "publishedAt": "2024-11-23T05:47:01Z",
+    "content": "The number of infected people, measured over 70-some years and across all 50 states and the District of Columbia, generally declined after vaccines were introduced.\r\nThe heat maps below show number o… [+26 chars]"
+    }
+    ]
+    }
